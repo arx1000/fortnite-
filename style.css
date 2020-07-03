@@ -1,0 +1,175 @@
+
+    body  {
+      background-image: url(https://cdn2.unrealengine.com/header-2160x1215-188974189.jpg);
+      
+     
+       background-position: center;
+       background-position: top;
+       background-size: auto;
+background-color: rgb(52, 39, 99);
+    
+
+       
+    }
+.wiwo
+{ font-family:    serif;
+  color:red;
+  display: flex;
+  justify-content:center;
+  font-size: 1.5cm;
+  border: 10px solid black;
+  padding:50px;
+  
+}
+
+.game{
+  color:blue;
+  font-size: 1cm;
+}
+.lol{
+color:blueviolet;
+display: flex;
+font-size: 1cm;
+border:20px black;
+}
+.rank{
+  background-color: rgb(252, 255, 51);
+}
+.idk{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.box{
+display:flex;
+  justify-content: center;
+  justify-content:  space-between;
+  
+}
+.ok{
+  color:cyan;
+}
+
+a:link{
+  color:red;
+}
+.pvp{
+  color: green;
+ font-size: 1cm; 
+ display:flex;
+ justify-content: center;
+}
+
+.gg{
+font-size: 1.2cm;
+display:flex;
+justify-content: center;
+
+}
+
+.fgh{
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+
+}
+
+ 
+body {font-family: Verdana, sans-serif; margin:0}
+.mySlides {display: none}
+img {vertical-align: middle;}
+
+
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+
+.ff{
+font-size: 1cm;
+color:purple;
+}
+.caret.caret-up {
+  border-top-width: 0;
+  border-bottom: 4px solid #fff;
+}
